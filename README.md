@@ -10,6 +10,6 @@
 
 
 ### Status
-![wonderlandpark's github stats](https://github-readme-stats.vercel.app/api?username=TANAT96564&bg_color=ffa745,8ba4db,8ba4db&title_color=fff&text_color=fff&show_icons=true&count_private=true)
+![wonderlandpark's github stats](https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=ffa745,8ba4db,8ba4db&title_color=fff&text_color=fff&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TANAT96564&bg_color=ffa745,8ba4db,8ba4db&title_color=fff&text_color=fff)](https://github.com/TANAT96564/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanat05&bg_color=ffa745,8ba4db,8ba4db&title_color=fff&text_color=fff)](https://github.com/Tanat05/github-readme-stats)
