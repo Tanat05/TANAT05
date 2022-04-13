@@ -6,7 +6,7 @@
 - Mail: [shrbwjd05@gmail.com](mailto:shrbwjd05@gmail.com)
 
 ### My project
-- [korcen(코르센)](https://github.com/TANAT96564/korcen) - Python korean Censorship Module
+- [korcen(코르센)](https://github.com/TANAT96564/korcen) - korean Censorship Module
 
 
 ### Status
