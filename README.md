@@ -6,6 +6,7 @@
 - Mail: [shrbwjd05@gmail.com](mailto:shrbwjd05@gmail.com)
 
 ### My project
+- [TNS 봇](https://discord.com/api/oauth2/authorize?client_id=848795383751639080&permissions=8&scope=bot%20applications.commands) - discord Bot
 - [korcen(코르센)](https://github.com/TANAT96564/korcen) - korean Censorship Module
 
 
