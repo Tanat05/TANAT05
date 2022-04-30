@@ -1,6 +1,8 @@
 <h2 align="center">Hello</h2>
 <p align="center">I'm Tanat, a student developer.</p>
 
+![profile count](https://komarev.com/ghpvc/?username=Tanat05&color=red)&nbsp;
+
 ### Contact
 - Discord: Tanat#0206
 - Mail: [shrbwjd05@gmail.com](mailto:shrbwjd05@gmail.com)
