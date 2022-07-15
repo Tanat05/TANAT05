@@ -17,7 +17,7 @@ main - Python
 
 can use - javasript,C
 
-want to learn - HTML,CSS,JAVA
+want to learn - CSS,JAVA
 
 ### Status
 ![wonderlandpark's github stats](https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=ffa745,8ba4db,8ba4db&title_color=fff&text_color=fff&show_icons=true&count_private=true)
