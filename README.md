@@ -1,7 +1,16 @@
-<h2 align="center">Hello</h2>
-<p align="center">I'm Tanat, a student developer.</p>
+<p align="center">
+<a href="https://github.com/TANAT05">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hello;I'm student developer;studying AI+%7C+GUI" alt="Typing SVG" />
+</a>
+ 
+<div align="center">
+  <h2>
+    <a href="https://pypi.org/user/drkostas/">
+    <img src="https://komarev.com/ghpvc/?username=TANAT05&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
+  </h2>
+</div>
 
-![profile count](https://komarev.com/ghpvc/?username=Tanat05&color=red)&nbsp;
+
 
 https://타나트.kr
 ### Contact
