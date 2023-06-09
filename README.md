@@ -22,7 +22,7 @@ https://타나트.kr
 - [korcen(코르센)](https://github.com/KR-korcen/korcen) - korean Censorship Module
 - [korcen-ml](https://github.com/KR-korcen/korcen-ml) - deep learning censorship module
 
-### Languag
+### Language
 main - Python
 
 can use - javasript,C
