@@ -14,7 +14,7 @@
 
 https://타나트.kr
 ### Contact
-- Discord: Tanat#1533
+- Discord: tanat05
 - Mail: [shrbwjd05@gmail.com](mailto:shrbwjd05@gmail.com)
 
 ### My project
