@@ -25,9 +25,9 @@ https://타나트.kr
 ### Language
 main - Python
 
-can use - javasript, C
+can use - JAVA, C
 
-want to learn - Flutter, JAVA
+want to learn - Flutter, JavaScript etc...
 
 ### Status
 ![wonderlandpark's github stats](https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=ffa745,8ba4db,8ba4db&title_color=fff&text_color=fff&show_icons=true&count_private=true)
