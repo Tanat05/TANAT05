@@ -19,13 +19,13 @@ https://타나트.kr
 
 ### My project
 - [TNS 봇](https://discord.com/api/oauth2/authorize?client_id=848795383751639080&permissions=8&scope=bot%20applications.commands) - discord Bot
-- [korcen(코르센)](https://github.com/KR-korcen/korcen) - korean Censorship Module
-- [korcen-ml](https://github.com/KR-korcen/korcen-ml) - deep learning censorship module
+- [korcen(코르센)](https://github.com/Tanat05/korcen) - korean Censorship Module
+- [korcen-ml](https://github.com/Tanat05/korcen-ml) - deep learning censorship module
 
 ### Language
 main - Python
 
-can use - JAVA, C
+can use - JAVA, C, R
 
 want to learn - Flutter, JavaScript etc...
 
