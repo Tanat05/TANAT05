@@ -30,6 +30,8 @@ can use - JAVA, C, R
 want to learn - Flutter, JavaScript etc...
 
 ### Status
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shrbwjd)](https://solved.ac/shrbwjd)
+
 ![wonderlandpark's github stats](https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=ffa745,8ba4db,8ba4db&title_color=fff&text_color=fff&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanat05&bg_color=ffa745,8ba4db,8ba4db&title_color=fff&text_color=fff)](https://github.com/Tanat05/github-readme-stats)
