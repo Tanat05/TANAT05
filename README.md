@@ -38,7 +38,7 @@ Below is a showcase of key projects I have undertaken, reflecting my skills and 
 
 My technical expertise is grounded in several programming languages and development tools.
 
-<div align="center">
+<div align="left">
   <h3>Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -47,7 +47,7 @@ My technical expertise is grounded in several programming languages and developm
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
-<div align="center">
+<div align="left">
   <h3>Tools</h3>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda Badge"/>
   <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" alt="json Badge"/>
