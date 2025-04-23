@@ -38,17 +38,17 @@ Below is a showcase of key projects I have undertaken, reflecting my skills and 
 
 My technical expertise is grounded in several programming languages and development tools.
 
-### Languages
-<p align="left">
+<div align="center">
+  <h3>Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="C">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
+</div>
 
-### Tools
-<p align="left">
+<div align="center">
+  <h3>Tools</h3>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda Badge"/>
   <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" alt="json Badge"/>
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter Badge"/>
@@ -66,7 +66,7 @@ My technical expertise is grounded in several programming languages and developm
   <img src="https://img.shields.io/badge/gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="googlegemini Badge"/>
   <img src="https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="claude Badge"/>
   <img src="https://img.shields.io/badge/openai-222222?style=for-the-badge&logo=openai&logoColor=white" alt="openai Badge"/>
-</p>
+</div>
 
 ---
 
