@@ -49,10 +49,23 @@ My technical expertise is grounded in several programming languages and developm
 
 ### Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda Badge"/>
+  <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" alt="json Badge"/>
+  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter Badge"/>
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy Badge"/>
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikitlearn Badge"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
+  <img src="https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=PyPI&logoColor=white" alt="PyPI Badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="google Badge"/>
+  <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="naver Badge"/>
+  <img src="https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow Badge"/>
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
+  <img src="https://img.shields.io/badge/gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="googlegemini Badge"/>
+  <img src="https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="claude Badge"/>
+  <img src="https://img.shields.io/badge/openai-222222?style=for-the-badge&logo=openai&logoColor=white" alt="openai Badge"/>
 </p>
 
 ---
