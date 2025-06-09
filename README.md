@@ -86,16 +86,17 @@ Visual representations of my coding activity and competitive programming progres
 </div>
 
 <div>
+  <a herf="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanat05&bg_color=45,ffc944,ff9632&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
+<div>
   <a href="https://solved.ac/shrbwjd">
     <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shrbwjd" />
   </a>
 </div>
 
-<div>
-  <a herf="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanat05&bg_color=45,ffc944,ff9632&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
 
 ---
 
