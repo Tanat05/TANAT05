@@ -18,17 +18,17 @@ Below is a showcase of key projects I have undertaken, reflecting my skills and 
 
 ### Korcen
 <div>
-  <a href="https://github.com/Tanat05/korcen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=korcen&description_lines_count=1&bg_color=fff&text_color=000" />
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=korcen&description_lines_count=1&bg_color=fff&text_color=000&card_width=450" />
   </a>
-  <a href="https://github.com/Tanat05/korcen.ts">
+  <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=korcen.ts&description_lines_count=1&bg_color=fff&text_color=000" />
   </a>
   
-  <a href="https://github.com/Tanat05/korcen-kogpt2">
+  <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=korcen-kogpt2&description_lines_count=1&bg_color=fff&text_color=000" />
   </a>
-  <a href="[https://github.com/Tanat05/korcen-kogpt2](https://github.com/Tanat05/Korcen-13M-EXAONE)">
+  <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=Korcen-13M-EXAONE&description_lines_count=1&bg_color=fff&text_color=000" />
   </a>
 </div>
@@ -77,11 +77,11 @@ Visual representations of my coding activity and competitive programming progres
 
 <div>
   <a href="">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&rank_icon=github&card_width=491" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&rank_icon=github&card_width=461" />
   </a>
   
   <a href="">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8&card_width=478" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8&card_width=448" />
   </a>
 
   <a herf="">
