@@ -77,7 +77,7 @@ Visual representations of my coding activity and competitive programming progres
 
 <div>
   <a href="">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&rank_icon=github&card_width=431" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&rank_icon=github&card_width=421" />
   </a>
   
   <a href="">
