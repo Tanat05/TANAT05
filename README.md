@@ -80,10 +80,18 @@ My technical expertise is grounded in several programming languages and developm
 Visual representations of my coding activity and competitive programming progress.
 
 <div>
+  <a href="">
     <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&rank_icon=github" />
+  </a><a href="">
     <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" />
+  </a>
+</div>
+<div>
+  <a herf="">
     <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" />
+  </a><a href="">
     <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" />
+  </a>
 </div>
 
 
