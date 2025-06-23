@@ -79,26 +79,26 @@ My technical expertise is grounded in several programming languages and developm
 
 Visual representations of my coding activity and competitive programming progress.
 
-<table>
-  <tr>
-    <td width="50%">
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="height: 200px;">
+    <td style="width: 50%; padding: 0;">
       <a href="">
         <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
       </a>
     </td>
-    <td width="50%">
+    <td style="width: 50%; padding: 0;">
       <a href="">
         <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
+  <tr style="height: 200px;">
+    <td style="width: 50%; padding: 0;">
       <a href="">
         <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" alt="Wakatime Stats" />
       </a>
     </td>
-    <td width="50%">
+    <td style="width: 50%; padding: 0;">
       <a href="">
         <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages 2" />
       </a>
