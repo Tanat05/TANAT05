@@ -77,19 +77,19 @@ Visual representations of my coding activity and competitive programming progres
 
 <div>
   <a href="">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&rank_icon=github&card_width=401" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&rank_icon=github" />
   </a>
   
   <a href="">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8&card_width=408" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" />
   </a>
 
   <a herf="">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8&card_width=450" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" />
   </a>
 
   <a href="">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8&card_width=450" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" />
   </a>
 </div>
 
