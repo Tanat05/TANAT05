@@ -76,24 +76,20 @@ My technical expertise is grounded in several programming languages and developm
 Visual representations of my coding activity and competitive programming progress.
 
 <div>
-  <a href="https://github.com/Tanat05">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=45,ffc944,ff9632&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&count_private=true&rank_icon=github" />
+  <a href="">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&rank_icon=github&card_width=491" />
   </a>
   
-  <a href="https://github.com/Tanat05">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,ffc944,ff9632&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
+  <a href="">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8&card_width=478" />
   </a>
-</div>
 
-<div>
   <a herf="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanat05&bg_color=45,ffc944,ff9632&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8&card_width=450" />
   </a>
-</div>
 
-<div>
-  <a href="https://solved.ac/shrbwjd">
-    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shrbwjd" />
+  <a href="">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8&card_width=450" />
   </a>
 </div>
 
