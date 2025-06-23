@@ -18,19 +18,22 @@ Below is a showcase of key projects I have undertaken, reflecting my skills and 
 
 ### Korcen
 <div>
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=korcen&description_lines_count=1&bg_color=fff&text_color=000" />
-  </a>
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=korcen.ts&description_lines_count=1&bg_color=fff&text_color=000" />
-  </a>
-  
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=korcen-kogpt2&description_lines_count=1&bg_color=fff&text_color=000" />
-  </a>
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=Korcen-13M-EXAONE&description_lines_count=1&bg_color=fff&text_color=000" />
-  </a>
+  <div>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=korcen&description_lines_count=1&bg_color=fff&text_color=000" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=korcen.ts&description_lines_count=1&bg_color=fff&text_color=000" />
+    </a>
+  </div>
+  <div>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=korcen-kogpt2&description_lines_count=1&bg_color=fff&text_color=000" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=Korcen-13M-EXAONE&description_lines_count=1&bg_color=fff&text_color=000" />
+    </a>
+  </div>
 </div>
 
 ---
@@ -73,24 +76,14 @@ My technical expertise is grounded in several programming languages and developm
 
 ## 📈 Development Journey & Statistics
 
+
 Visual representations of my coding activity and competitive programming progress.
 
 <div>
-  <a href="">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&rank_icon=github" />
-  </a>
-  
-  <a href="">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" />
-  </a>
-
-  <a herf="">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" />
-  </a>
-
-  <a href="">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" />
-  </a>
+    <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&rank_icon=github" />
+    <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" />
+    <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" />
+    <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" />
 </div>
 
 
