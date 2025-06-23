@@ -52,15 +52,18 @@ My technical expertise is grounded in several programming languages and developm
 </div>
 
 <div align="left">
-  <h3>Tools</h3>
+  <h3>AI/ML Frameworks & Libraries</h3>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda Badge"/>
-  <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" alt="json Badge"/>
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter Badge"/>
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy Badge"/>
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikitlearn Badge"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
   <img src="https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=PyPI&logoColor=white" alt="PyPI Badge"/>
+</div>
+
+<div align="left">
+  <h3>Tools</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="google Badge"/>
