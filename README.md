@@ -36,12 +36,14 @@ Below is a showcase of key projects I have undertaken, reflecting my skills and 
   </div>
 </div>
 
-## Discord Bot
+### Discord Bot
 
-| name | invite | servers |
+| Name | Description | Servers |
 | --- | --- | --- |
-| 고운(TNS 봇) | https://discord.com/oauth2/authorize?client_id=848795383751639080 | 3,300 |
-| 활성화 | https://discord.com/oauth2/authorize?client_id=1163043726311039066 | 2,550 |
+| [고운(TNS 봇)](https://discord.com/oauth2/authorize?client_id=848795383751639080) | Automatically delete abusive, profanity, and disparaging expressions | 3,300 |
+| [활성화](https://discord.com/oauth2/authorize?client_id=1163043726311039066) | Diverse server management capabilities | 2,550 |
+| DISTORE | Shopbot with Custom Image Expression | 100 |
+| 스틸봇 | Ability to import data from other servers or users such as emojis, stickers, soundboards, etc | 50 |
 
 ---
 
