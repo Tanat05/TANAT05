@@ -1,20 +1,27 @@
-<h1 align="center">Exploring the Realms of AI and Software Development</h1>
+<h1 align="center">AI 및 소프트웨어 개발의 영역 탐구</h1>
 
 ---
 
-## About Me 👋
+## 소개 👋
 
-I am a dedicated student developer with a profound interest and focus on Artificial Intelligence. My journey involves building practical applications, contributing to meaningful projects, and continuously learning cutting-edge technologies. This profile serves as a gateway to my work, showcasing my passion for creating impactful solutions through code.
+저는 인공지능에 깊은 관심과 초점을 맞추고 있는 헌신적인 학생 개발자입니다. 저의 여정은 실용적인 애플리케이션 구축, 의미 있는 프로젝트 기여, 그리고 최신 기술에 대한 지속적인 학습을 포함합니다. 이 프로필은 코드를 통해 영향력 있는 솔루션을 만드는 저의 열정을 보여주는 제 작업의 관문 역할을 합니다.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TANAT05&label=Profile+Views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=TANAT05&label=Profile+Views&color=0e75b6&style=flat" alt="방문자 수" />
 </div>
 
 ---
 
-## 🔬 Featured Projects
+## 🎓 학력
 
-Below is a showcase of key projects I have undertaken, reflecting my skills and interests in various domains, particularly AI and software development.
+- **신천고등학교** (2021 ~ 2023)
+- **순천향대학교 AI빅데이터학과** (2024 ~ )
+
+---
+
+## 🔬 주요 프로젝트
+
+아래는 AI 및 소프트웨어 개발 분야에서의 제 기술과 관심을 반영하는 주요 프로젝트들입니다.
 
 ### Korcen
 <div>
@@ -36,21 +43,21 @@ Below is a showcase of key projects I have undertaken, reflecting my skills and 
   </div>
 </div>
 
-### Discord Bot
+### 디스코드 봇
 
-| Name | Description | Servers | Period |
+| 이름 | 설명 | 서버 수 | 기간 |
 | --- | --- | --- | --- |
-| [고운(TNS 봇)](https://discord.com/oauth2/authorize?client_id=848795383751639080) | Automatically delete abusive, profanity, and disparaging expressions | 3,300 | 2021.05 - 2025.08 |
-| [활성화](https://discord.com/oauth2/authorize?client_id=1163043726311039066) | Diverse server management capabilities | 7,100 | 2025.03 - |
+| [고운(TNS 봇)](https://discord.com/oauth2/authorize?client_id=848795383751639080) | 비속어, 욕설 및 비하 표현 자동 삭제 | 3,300 | 2021.05 - 2025.08 |
+| [활성화](https://discord.com/oauth2/authorize?client_id=1163043726311039066) | 다양한 서버 관리 기능 | 7,100 | 2025.03 - |
 
 ---
 
-## 💻 Skills & Technical Arsenal
+## 💻 기술 스택 및 역량
 
-My technical expertise is grounded in several programming languages and development tools.
+저의 기술적 전문성은 여러 프로그래밍 언어와 개발 도구에 기반을 두고 있습니다.
 
 <div align="left">
-  <h3>Languages</h3>
+  <h3>언어 (Languages)</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="C">
@@ -59,7 +66,7 @@ My technical expertise is grounded in several programming languages and developm
 </div>
 
 <div align="left">
-  <h3>AI/ML Frameworks & Libraries</h3>
+  <h3>AI/ML 프레임워크 및 라이브러리</h3>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda Badge"/>
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter Badge"/>
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy Badge"/>
@@ -70,7 +77,7 @@ My technical expertise is grounded in several programming languages and developm
 </div>
 
 <div align="left">
-  <h3>Tools</h3>
+  <h3>도구 (Tools)</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="google Badge"/>
@@ -84,10 +91,9 @@ My technical expertise is grounded in several programming languages and developm
 
 ---
 
-## 📈 Development Journey & Statistics
+## 📈 개발 여정 및 통계
 
-
-Visual representations of my coding activity and competitive programming progress.
+코딩 활동 및 개발 역량을 시각적으로 나타낸 통계입니다.
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="height: 200px;">
@@ -116,15 +122,14 @@ Visual representations of my coding activity and competitive programming progres
   </tr>
 </table>
 
-
 ---
 
-## 📧 Connect with Me
+## 📧 연락처
 
-I'm open to collaboration and discussion. Feel free to reach out through the following channels:
+협업 및 토론을 환영합니다. 아래 채널을 통해 언제든지 연락해 주세요:
 
-* **Website:** [https://tanat.kr](https://tanat.kr)
-* **Discord:** `tanat05`
-* **Mail:** [shrbwjd05@gmail.com](mailto:shrbwjd05@gmail.com)
+* **웹사이트:** [https://tanat.kr](https://tanat.kr)
+* **디스코드:** `tanat05`
+* **메일:** [shrbwjd05@gmail.com](mailto:shrbwjd05@gmail.com)
 
 ---
