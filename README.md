@@ -26,19 +26,19 @@
 ### Korcen
 <div>
   <div>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=korcen&description_lines_count=1&bg_color=fff&text_color=000" />
+    <a href="https://github.com/Tanat05/korcen">
+      <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanat05&repo=korcen&description_lines_count=1&bg_color=fff&text_color=000" />
     </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=korcen.ts&description_lines_count=1&bg_color=fff&text_color=000" />
+    <a href="https://github.com/Tanat05/korcen.ts">
+      <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanat05&repo=korcen.ts&description_lines_count=1&bg_color=fff&text_color=000" />
     </a>
   </div>
   <div>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=korcen-kogpt2&description_lines_count=1&bg_color=fff&text_color=000" />
+    <a href="https://github.com/Tanat05/korcen-kogpt2">
+      <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanat05&repo=korcen-kogpt2&description_lines_count=1&bg_color=fff&text_color=000" />
     </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanat05&repo=Korcen-13M-EXAONE&description_lines_count=1&bg_color=fff&text_color=000" />
+    <a href="https://github.com/Tanat05/Korcen-13M-EXAONE">
+      <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanat05&repo=Korcen-13M-EXAONE&description_lines_count=1&bg_color=fff&text_color=000" />
     </a>
   </div>
 </div>
@@ -98,25 +98,25 @@
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="height: 200px;">
     <td style="width: 50%; padding: 0;">
-      <a href="">
-        <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+      <a href="https://github.com/Tanat05">
+        <img width="100%" height="200" src="https://github-stats-extended.vercel.app/api?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
       </a>
     </td>
     <td style="width: 50%; padding: 0;">
-      <a href="">
-        <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+      <a href="https://github.com/Tanat05">
+        <img width="100%" height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
       </a>
     </td>
   </tr>
   <tr style="height: 200px;">
     <td style="width: 50%; padding: 0;">
-      <a href="">
-        <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" alt="Wakatime Stats" />
+      <a href="https://github.com/Tanat05">
+        <img width="100%" height="200" src="https://github-stats-extended.vercel.app/api/wakatime?username=Tanat05&bg_color=45,D9E5FF,4374D9&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" alt="Wakatime Stats" />
       </a>
     </td>
     <td style="width: 50%; padding: 0;">
-      <a href="">
-        <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages 2" />
+      <a href="https://github.com/Tanat05">
+        <img width="100%" height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=Tanat05&bg_color=45,4374D9,D9E5FF&title_color=000&text_color=000&icon_color=000&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages 2" />
       </a>
     </td>
   </tr>
