@@ -47,7 +47,7 @@
 | 이름 | 설명 | 서버 수 | 기간 |
 | --- | --- | --- | --- |
 | [고운(TNS 봇)](https://discord.com/oauth2/authorize?client_id=848795383751639080) | 비속어, 욕설 및 비하 표현 자동 삭제 | 3,300 | 2021.05 - 2025.08 |
-| [활성화](https://discord.com/oauth2/authorize?client_id=1163043726311039066) | 다양한 서버 관리 기능 | 15,700 | 2025.03 - |
+| [활성화](https://discord.com/oauth2/authorize?client_id=1163043726311039066) | 디스코드 전문 유튜버와 협력한 서버 관리 봇 | 15,700 | 2025.03 - |
 
 ---
 
